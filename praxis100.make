@@ -135,3 +135,9 @@ projects[mayo][version] = "2.6"
 projects[mayo][subdir] = "contrib"
 projects[zen][version] = "5.6"
 projects[zen][subdir] = "contrib"
+
+; Libraries
+
+libraries[flexslider][download][type] = "git"
+libraries[flexslider][download][url] = "https://github.com/woothemes/FlexSlider.git"
+libraries[flexslider][download][revision] = "622f7fda936f87ce8c95a437bba07162de35e0d3"
