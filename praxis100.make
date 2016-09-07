@@ -50,7 +50,7 @@ projects[l10n_client][subdir] = "contrib"
 projects[l10n_update][subdir] = "contrib"
 
 ; Rules
-project[rules][subdir] = "contrib"
+projects[rules][subdir] = "contrib"
 
 ; SEO
 
