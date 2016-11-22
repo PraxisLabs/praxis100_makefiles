@@ -85,6 +85,8 @@ projects[views_calc][subdir] = "contrib"
 projects[views_data_export][subdir] = "contrib"
 projects[views_bulk_operations][subdir] = "contrib"
 projects[views_slideshow][subdir] = "contrib"
+projects[views_accordion][subdir] = "contrib"
+
 
 ; Webform
 projects[webform][subdir] = "contrib"
